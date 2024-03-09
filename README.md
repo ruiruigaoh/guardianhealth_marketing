@@ -12,10 +12,9 @@ A link to the interactive dashboard is [here](https://public.tableau.com/app/pro
 
 ## Dataset Structure
 
-<p align="center" width="100%">
-  <img width="100%" src="imgs/guardianhealth_erd.png"><br>
-  <sub>Entity relationship diagram (ERD) of GuardianHealth's marketing data.</sub>
-</p>
+<img width="150%" src="imgs/guardianhealth_erd.png"><br>
+<sub>Entity relationship diagram (ERD) of GuardianHealth's marketing data.</sub>
+
 
 ## North Star Metrics
 
