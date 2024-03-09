@@ -13,7 +13,7 @@ A link to the interactive dashboard is [here](https://public.tableau.com/app/pro
 ## Dataset Structure
 
 <p align="center" width="100%">
-  <img width="65%" src="imgs/guardianhealth_erd.png"><br>
+  <img width="100%" src="imgs/guardianhealth_erd.png"><br>
   <sub>Entity relationship diagram (ERD) of GuardianHealth's marketing data.</sub>
 </p>
 
