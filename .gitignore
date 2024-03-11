@@ -1,4 +1,8 @@
 #ignore DS_Store
 **/.DS_Store
 
+#ignore temp office files
 ~$*
+
+#ignore folders
+mockup/*
