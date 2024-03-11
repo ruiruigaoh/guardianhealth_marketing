@@ -15,9 +15,9 @@ A link to the interactive dashboard is [here](https://public.tableau.com/app/pro
 The dataset contains 49,998 records across 3 tables, as shown in the ERD below. 
 
 <p align="center" width="100%">
-  <img width="65%" src="imgs/guardianhealth_erd.png"><br>
-</p>
+  <img width="50%" src="imgs/guardianhealth_erd.png"><br>
 <sub>Entity relationship diagram (ERD) of GuardianHealth's marketing data.</sub>
+</p>
 
 
 ## North Star Metrics
