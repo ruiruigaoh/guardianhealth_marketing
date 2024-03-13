@@ -32,10 +32,10 @@ The dataset contains 49,998 records across 3 tables, as shown in the ERD below. 
 
 ### Marketing metrics: click-through rate (CTR), cost per click (CPC)
 * Across campaign categories, the *Health For All* campaign has the **highest CTR at 36%** (**~4X higher** than the average) even though it has the **lowest number of impressions** across campaigns (120K). The next best-performing campaign is *Benefit Updates* with a CTR of 22%. Within these two high-CTR categories, product promotion-based campaign types had relatively low CTR (0% and 7%, respectively).
-
-* Conversely, the *Golden Years Security* campaign has the **lowest CTR at 1.7%**; its low number of clicks in proportion to the cost of the campaign leads to an **abnormally high CPC of $0.48**. The remaining campaigns appear to be more appropriately budgeted, all having CPCs ranging from $0.02 - $0.05. 
-
-* *Tailored Health Plans, #HealthyLiving, Family Coverage Plan,* and *Preventive Care News* are the top 4 campaigns in terms of reach (all broke **1M+ in impressions**).
+  
+* Conversely, the *Golden Years Security* campaign has the **lowest CTR at 1.7%**; its low number of clicks in proportion to the cost of the campaign leads to an **abnormally high CPC of $0.48**. The remaining campaigns appear to be more appropriately budgeted, all having CPCs ranging from $0.02 - $0.05.
+  
+* *Family Coverage Plan* had high impressions (1M+) but no clicks. This needs to be investigated and could be due to missing data or issues with the campaign.
 
 ### Signup metrics: signup rate, cost per signup
 * Across categories, *Health For All* had the **highest signup rate at ~3%** (**16X higher** than the average) and **lowest cost per signup**. Its high signup rate is driven by health awareness-type marketing (3.72% signup rate). *Golden Years Security* had the **lowest signup rate at 0.01%** and its cost per signup is more than **an order of magnitude higher than the average ($123 vs $2.18)**. 
