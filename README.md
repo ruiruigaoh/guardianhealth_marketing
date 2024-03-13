@@ -50,14 +50,14 @@ The dataset contains 49,998 records across 3 tables, as shown in the ERD below. 
 * Bronze plans offer the lowest average claim coverage rate at 51%, followed by silver (62%), gold (71%), and platinum (80%). **Silver plans are the most popular plan type (accounting for 85% of total customers)** and account for **85% of the total dollar amount claimed to-date**.
 
 ## Initial Recommendations
-* **Double down on winning campaigns**: 
+* _Double down on winning campaigns_: 
   * The *Health For All* campaign has the highest CTR, signup rate, and lowest cost per signup; increase budget allocation for this campaign category and consider ways to increase its reach to improve impressions. 
   * Maintain or increase budget allocation for *#CoverageMatters* and *#HealthyLiving* campaigns, given they show post-pandemic resilience in signups and currently capture a large portion of new customers. Regroup with marketing team to understand potential reasons for why these categories were able to maintain performance when other campaigns were not.
   * Investigate reasons for *Health For All*'s high CTR and apply those findings to improve marketing copy for other campaign categories, particularly those with high impression counts.  
 
-* **Revamp or reallocate underperforming campaigns**: The *Golden Years Security* campaign has the lowest CTR, signup rate, and highest cost per signup. Gather more context from the business team to understand if this customer demographic is important to the company. Depending on the input, either explore ways to boost engagement, perhaps by adjusting this campaign's marketing channels (social media may not be the best fit for this audience; consider perhaps partnering with senior citizen organizations) *or* reallocate budget to the *Health For All* campaigns. 
+* _Revamp or reallocate underperforming campaigns_: The *Golden Years Security* campaign has the lowest CTR, signup rate, and highest cost per signup. Gather more context from the business team to understand if this customer demographic is important to the company. Depending on the input, either explore ways to boost engagement, perhaps by adjusting this campaign's marketing channels (social media may not be the best fit for this audience; consider perhaps partnering with senior citizen organizations) *or* reallocate budget to the *Health For All* campaigns. 
 
-* **Develop campaigns highlighting preventative care strategies**: Customers driven through the *Compare Health Coverage* campaign have the highest average claim amounts -- collaborate with the actuarial team to conduct a deeper dive into these customers' demographics and health needs to ensure this campaign is not attracting a customer base with higher risk profiles than anticipated. Consider incorporating messaging that promotes preventive care services into future copy to potentially lower future claim amounts. 
+* _Develop campaigns highlighting preventative care strategies_: Customers driven through the *Compare Health Coverage* campaign have the highest average claim amounts -- collaborate with the actuarial team to conduct a deeper dive into these customers' demographics and health needs to ensure this campaign is not attracting a customer base with higher risk profiles than anticipated. Consider incorporating messaging that promotes preventive care services into future copy to potentially lower future claim amounts. 
 
 ## Credits
 ERD was created using [dbdiagram.io](https://dbdiagram.io/). 
