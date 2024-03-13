@@ -57,7 +57,7 @@ The dataset contains 49,998 records across 3 tables, as shown in the ERD below. 
 
 * _Revamp or reallocate underperforming campaigns_: The *Golden Years Security* campaign has the lowest CTR, signup rate, and highest cost per signup. Gather more context from the business team to understand if this customer demographic is important to the company. Depending on the input, either explore ways to boost engagement, perhaps by adjusting this campaign's marketing channels (social media may not be the best fit for this audience; consider perhaps partnering with senior citizen organizations) *or* reallocate budget to the *Health For All* campaigns. 
 
-* _Develop campaigns highlighting preventative care strategies_: Customers driven through the *Compare Health Coverage* campaign have the highest average claim amounts -- collaborate with the actuarial team to conduct a deeper dive into these customers' demographics and health needs to ensure this campaign is not attracting a customer base with higher risk profiles than anticipated. Consider incorporating messaging that promotes preventive care services into future copy to potentially lower future claim amounts. 
+* _Develop campaigns highlighting preventative care strategies_: Customers driven through the *Compare Health Coverage* campaign have the highest average claim amounts -- collaborate with the actuarial team to conduct a deeper dive into these customers' demographics and health needs to ensure this campaign is not attracting a customer base with higher risk profiles than anticipated. Consider incorporating messaging that promotes preventative care services into future copy to potentially lower future claim amounts. 
 
 ## Credits
 ERD was created using [dbdiagram.io](https://dbdiagram.io/). 
